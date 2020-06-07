@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+h1{color: RED;
+font-family:  Arial, Helvetica, sans-serif;
+text-align:center;}
+
+#bio-header{color:brown;
+    font-family:  Arial, Helvetica, sans-serif;
+    text-align:left;}
+    
+#erő{color:coral;}
+
+
+.tartalom{color: rgb(163, 136, 68);
+font-size: 48px;
+font-family: 'Indie Flower', cursive;
+text-align: justify;
+font-style:italic;
+font-weight: 100;
+text-transform:uppercase;
+line-height: 80px;
+}
+.kép-div{background-color: lightblue;}
+.kövér{text-transform:lowercase;}
+img{width: 200px;margin: 5px;}
+
